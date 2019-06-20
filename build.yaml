@@ -5,5 +5,7 @@ builders:
     builder_factories:
       - markdownBuilder
     build_extensions:
+      .markdown:
+        - .html
       .md:
         - .html
