@@ -1,5 +1,5 @@
 name: markdown_builder
-version: 1.0.0
+version: 1.0.0+1
 description: Dart build plugin for transforming Markdown documents to HTML.
 author: Tobe O <thosakwe@gmail.com>
 homepage: https://github.com/thosakwe/markdown_builder
