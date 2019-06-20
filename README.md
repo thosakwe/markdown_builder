@@ -1,2 +1,2 @@
 # markdown_builder
-Dart builder for transforming Markdown to HTML.
+Dart build plugin for transforming Markdown documents to HTML.

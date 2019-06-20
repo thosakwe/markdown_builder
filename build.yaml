@@ -1,0 +1,9 @@
+builders:
+  markdown:
+    import: 'package:markdown_builder/markdown_builder.dart'
+    auto_apply: all_packages
+    builder_factories:
+      - markdownBuilder
+    build_extensions:
+      .md:
+        - .html
